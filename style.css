@@ -1,0 +1,25 @@
+body {
+    background-color: #9b59b6;
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
+
+.counter-container {
+    margin: 5px 47px;
+    font-size: 25px;
+}
+
+i{
+    color: #fff;
+}
+
+.counter {
+    font-size: 59px;
+    font-weight: bold;
+    color: #f1c40f;
+}
+
+span {
+    color: #fff;
+}
